@@ -1,0 +1,5 @@
+C:\Users\Universidad\Documents\proyecto\zoo\obj\Debug\net10.0\zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Universidad\Documents\proyecto\zoo\obj\Debug\net10.0\zoo.AssemblyInfoInputs.cache
+C:\Users\Universidad\Documents\proyecto\zoo\obj\Debug\net10.0\zoo.AssemblyInfo.cs
+C:\Users\Universidad\Documents\proyecto\zoo\obj\Debug\net10.0\zoo.csproj.CoreCompileInputs.cache
+C:\Users\Universidad\Documents\proyecto\zoo\obj\Debug\net10.0\zoo.sourcelink.json
